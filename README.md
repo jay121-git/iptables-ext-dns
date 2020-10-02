@@ -1,6 +1,9 @@
 # iptables-ext-dns
 Administration tool for IPv4/IPv6 TCP/UDP packet filtering.
-
+IPv4 :Internet Protocoal version 4
+IPv6 :Internet Protocoal version 6
+TCP  :Transmission Control Protocol
+UPD  :User Datagram Protocol
 ##build & install
 see https://github.com/mimuret/iptables-ext-dns/wiki/install
 
